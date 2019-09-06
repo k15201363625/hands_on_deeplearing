@@ -1,0 +1,916 @@
+[I 07:52:18.626 LabApp] JupyterLab extension loaded from /home/gmm/conda/lib/python3.7/site-packages/jupyterlab
+[I 07:52:18.626 LabApp] JupyterLab application directory is /home/gmm/conda/share/jupyter/lab
+[I 07:52:18.627 LabApp] Serving notebooks from local directory: /home/gmm/mynotebook/hands-on-DL
+[I 07:52:18.627 LabApp] The Jupyter Notebook is running at:
+[I 07:52:18.627 LabApp] http://localhost:8888/
+[I 07:52:18.627 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 08:04:46.991 LabApp] 302 GET / (127.0.0.1) 0.45ms
+[I 08:04:53.746 LabApp] Build is up to date
+[W 08:04:54.043 LabApp] 404 GET /api/contents/tensorflow2.0_course_8chapter/chapter_7?1567209894028 (127.0.0.1): No such file or directory: tensorflow2.0_course_8chapter/chapter_7
+[W 08:04:54.043 LabApp] No such file or directory: tensorflow2.0_course_8chapter/chapter_7
+[W 08:04:54.043 LabApp] 404 GET /api/contents/tensorflow2.0_course_8chapter/chapter_7?1567209894028 (127.0.0.1) 0.76ms referer=http://localhost:8888/lab?
+[W 08:04:54.044 LabApp] 404 GET /api/contents/tensorflow2.0_course_8chapter/chapter_7/text_generation_lstm.ipynb?content=0&1567209894029 (127.0.0.1): No such file or directory: tensorflow2.0_course_8chapter/chapter_7/text_generation_lstm.ipynb
+[W 08:04:54.044 LabApp] No such file or directory: tensorflow2.0_course_8chapter/chapter_7/text_generation_lstm.ipynb
+[W 08:04:54.044 LabApp] 404 GET /api/contents/tensorflow2.0_course_8chapter/chapter_7/text_generation_lstm.ipynb?content=0&1567209894029 (127.0.0.1) 0.67ms referer=http://localhost:8888/lab?
+-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/[I 08:05:04.924 LabApp] Creating new notebook in /
+|\-/|[I 08:05:06.739 LabApp] Kernel started: 618a0dbb-599c-4bdd-bcd8-ac4633fcd406
+[I 08:05:07.894 LabApp] Adapting from protocol version 5.1 (kernel 618a0dbb-599c-4bdd-bcd8-ac4633fcd406) to 5.3 (client).
+[I 08:05:07.922 LabApp] Adapting from protocol version 5.1 (kernel 618a0dbb-599c-4bdd-bcd8-ac4633fcd406) to 5.3 (client).
+[I 08:05:29.259 LabApp] Creating new notebook in /
+[I 08:05:30.581 LabApp] Kernel started: 88bf5978-f79b-4a0b-9a33-065ba48f84f8
+[I 08:05:31.221 LabApp] Adapting from protocol version 5.1 (kernel 88bf5978-f79b-4a0b-9a33-065ba48f84f8) to 5.3 (client).
+[I 08:07:30.554 LabApp] Saving file at /conv_layer.ipynb
+[I 08:09:31.061 LabApp] Saving file at /conv_layer.ipynb
+[I 08:11:31.337 LabApp] Saving file at /conv_layer.ipynb
+[I 08:13:31.596 LabApp] Saving file at /conv_layer.ipynb
+[I 08:19:32.203 LabApp] Saving file at /conv_layer.ipynb
+[I 08:21:32.490 LabApp] Saving file at /conv_layer.ipynb
+[I 08:23:32.764 LabApp] Saving file at /conv_layer.ipynb
+[I 08:25:33.277 LabApp] Saving file at /conv_layer.ipynb
+[I 08:27:33.671 LabApp] Saving file at /conv_layer.ipynb
+[I 08:29:34.248 LabApp] Saving file at /conv_layer.ipynb
+[I 08:31:34.614 LabApp] Saving file at /conv_layer.ipynb
+[I 08:33:34.982 LabApp] Saving file at /conv_layer.ipynb
+[I 08:35:35.276 LabApp] Saving file at /conv_layer.ipynb
+[I 08:37:35.568 LabApp] Saving file at /conv_layer.ipynb
+[I 08:39:35.852 LabApp] Saving file at /conv_layer.ipynb
+[I 08:41:36.330 LabApp] Saving file at /conv_layer.ipynb
+[I 08:43:36.825 LabApp] Saving file at /conv_layer.ipynb
+[I 08:45:37.166 LabApp] Saving file at /conv_layer.ipynb
+[I 08:47:37.456 LabApp] Saving file at /conv_layer.ipynb
+[I 08:51:37.918 LabApp] Saving file at /conv_layer.ipynb
+[I 08:53:38.190 LabApp] Saving file at /conv_layer.ipynb
+[I 08:55:38.557 LabApp] Saving file at /conv_layer.ipynb
+[I 08:57:38.944 LabApp] Saving file at /conv_layer.ipynb
+[I 08:59:39.218 LabApp] Saving file at /conv_layer.ipynb
+[I 09:01:39.836 LabApp] Saving file at /conv_layer.ipynb
+[I 09:03:40.348 LabApp] Saving file at /conv_layer.ipynb
+[I 09:05:40.970 LabApp] Saving file at /conv_layer.ipynb
+[I 09:07:41.457 LabApp] Saving file at /conv_layer.ipynb
+[I 09:09:41.791 LabApp] Saving file at /conv_layer.ipynb
+[I 09:11:42.154 LabApp] Saving file at /conv_layer.ipynb
+[I 09:13:42.440 LabApp] Saving file at /conv_layer.ipynb
+[I 09:15:42.647 LabApp] Saving file at /conv_layer.ipynb
+[I 09:17:43.147 LabApp] Saving file at /conv_layer.ipynb
+[I 09:19:43.537 LabApp] Saving file at /conv_layer.ipynb
+[I 09:21:43.746 LabApp] Saving file at /conv_layer.ipynb
+[I 09:23:43.961 LabApp] Saving file at /conv_layer.ipynb
+[I 09:25:44.467 LabApp] Saving file at /conv_layer.ipynb
+[I 09:27:44.690 LabApp] Saving file at /conv_layer.ipynb
+[I 09:29:45.062 LabApp] Saving file at /conv_layer.ipynb
+[I 09:31:45.342 LabApp] Saving file at /conv_layer.ipynb
+[I 09:33:45.675 LabApp] Saving file at /conv_layer.ipynb
+[I 09:35:46.301 LabApp] Saving file at /conv_layer.ipynb
+[I 09:37:46.668 LabApp] Saving file at /conv_layer.ipynb
+[I 09:39:46.960 LabApp] Saving file at /conv_layer.ipynb
+[I 09:41:47.368 LabApp] Saving file at /conv_layer.ipynb
+[I 09:43:47.975 LabApp] Saving file at /conv_layer.ipynb
+[I 09:43:48.463 LabApp] Saving file at /conv_layer.ipynb
+[I 09:57:49.122 LabApp] Saving file at /conv_layer.ipynb
+[I 09:59:49.349 LabApp] Saving file at /conv_layer.ipynb
+[I 10:03:49.756 LabApp] Saving file at /conv_layer.ipynb
+[I 10:07:50.092 LabApp] Saving file at /conv_layer.ipynb
+[I 10:13:50.461 LabApp] Saving file at /conv_layer.ipynb
+[I 10:15:50.669 LabApp] Saving file at /conv_layer.ipynb
+[I 10:21:51.072 LabApp] Saving file at /conv_layer.ipynb
+[I 10:23:51.295 LabApp] Saving file at /conv_layer.ipynb
+[I 10:25:51.577 LabApp] Saving file at /conv_layer.ipynb
+[I 10:27:51.806 LabApp] Saving file at /conv_layer.ipynb
+[I 10:29:52.141 LabApp] Saving file at /conv_layer.ipynb
+[I 10:31:52.343 LabApp] Saving file at /conv_layer.ipynb
+[I 10:33:52.637 LabApp] Saving file at /conv_layer.ipynb
+[I 10:35:52.881 LabApp] Saving file at /conv_layer.ipynb
+[I 10:37:53.085 LabApp] Saving file at /conv_layer.ipynb
+[I 10:39:53.319 LabApp] Saving file at /conv_layer.ipynb
+[I 10:41:53.527 LabApp] Saving file at /conv_layer.ipynb
+[I 10:43:54.052 LabApp] Saving file at /conv_layer.ipynb
+[I 10:45:54.254 LabApp] Saving file at /conv_layer.ipynb
+[I 10:47:54.635 LabApp] Saving file at /conv_layer.ipynb
+[I 10:49:54.857 LabApp] Saving file at /conv_layer.ipynb
+[I 10:51:55.078 LabApp] Saving file at /conv_layer.ipynb
+[I 10:53:55.664 LabApp] Saving file at /conv_layer.ipynb
+[I 10:55:56.073 LabApp] Saving file at /conv_layer.ipynb
+[I 10:57:56.276 LabApp] Saving file at /conv_layer.ipynb
+[I 10:59:56.549 LabApp] Saving file at /conv_layer.ipynb
+[I 11:01:56.976 LabApp] Saving file at /conv_layer.ipynb
+[I 11:03:57.774 LabApp] Saving file at /conv_layer.ipynb
+[I 11:05:58.003 LabApp] Saving file at /conv_layer.ipynb
+[I 11:07:58.318 LabApp] Saving file at /conv_layer.ipynb
+[I 11:09:58.520 LabApp] Saving file at /conv_layer.ipynb
+[I 11:11:58.949 LabApp] Saving file at /conv_layer.ipynb
+[I 11:13:59.184 LabApp] Saving file at /conv_layer.ipynb
+[I 11:14:23.960 LabApp] Saving file at /conv_layer.ipynb
+[I 11:15:01.683 LabApp] Saving file at /conv_layer.ipynb
+[I 11:15:02.647 LabApp] Saving file at /conv_layer.ipynb
+[I 13:03:47.140 LabApp] Saving file at /conv_layer.ipynb
+[I 13:05:47.412 LabApp] Saving file at /conv_layer.ipynb
+[I 13:07:47.702 LabApp] Saving file at /conv_layer.ipynb
+[I 13:09:47.920 LabApp] Saving file at /conv_layer.ipynb
+[I 13:11:48.189 LabApp] Saving file at /conv_layer.ipynb
+[I 13:13:48.402 LabApp] Saving file at /conv_layer.ipynb
+[I 13:15:48.891 LabApp] Saving file at /conv_layer.ipynb
+[I 13:19:49.270 LabApp] Saving file at /conv_layer.ipynb
+[I 13:21:49.471 LabApp] Saving file at /conv_layer.ipynb
+[I 13:23:49.680 LabApp] Saving file at /conv_layer.ipynb
+[I 13:25:00.770 LabApp] Saving file at /conv_layer.ipynb
+[I 13:32:24.375 LabApp] Creating new notebook in /
+[I 13:32:25.165 LabApp] Kernel started: 9cc78e75-a48a-4cc6-a996-3838efed6900
+[I 13:32:25.646 LabApp] Adapting from protocol version 5.1 (kernel 9cc78e75-a48a-4cc6-a996-3838efed6900) to 5.3 (client).
+[I 13:32:42.765 LabApp] Starting buffering for 618a0dbb-599c-4bdd-bcd8-ac4633fcd406:eededa8a-d3eb-4b36-8d84-088793f8e85c
+[I 13:32:43.069 LabApp] Kernel shutdown: 618a0dbb-599c-4bdd-bcd8-ac4633fcd406
+[I 13:32:43.333 LabApp] Starting buffering for 88bf5978-f79b-4a0b-9a33-065ba48f84f8:35e87b98-67dc-43a2-a606-4d6fdbd735d8
+[I 13:32:43.939 LabApp] Kernel shutdown: 88bf5978-f79b-4a0b-9a33-065ba48f84f8
+[I 13:33:02.634 LabApp] Saving file at /conv_layer.ipynb
+[I 13:34:25.130 LabApp] Saving file at /pooling_layer.ipynb
+[I 13:38:25.333 LabApp] Saving file at /pooling_layer.ipynb
+[I 13:40:25.615 LabApp] Saving file at /pooling_layer.ipynb
+[I 13:42:25.891 LabApp] Saving file at /pooling_layer.ipynb
+[I 13:44:26.078 LabApp] Saving file at /pooling_layer.ipynb
+[I 13:46:26.375 LabApp] Saving file at /pooling_layer.ipynb
+[I 13:48:26.579 LabApp] Saving file at /pooling_layer.ipynb
+[I 13:50:26.871 LabApp] Saving file at /pooling_layer.ipynb
+[I 13:51:18.140 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:14:28.286 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:16:28.535 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:24:28.813 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:26:29.102 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:28:29.378 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:30:29.600 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:32:29.874 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:34:30.145 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:36:30.421 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:38:30.642 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:40:30.922 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:42:31.133 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:44:31.469 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:46:31.794 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:48:32.004 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:49:58.818 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:51:59.164 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:53:59.467 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:55:59.822 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:57:31.214 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:57:46.616 LabApp] Kernel started: 85f35394-47f2-4092-b3f7-ad2d9667ba8b
+[I 15:57:47.006 LabApp] Adapting from protocol version 5.1 (kernel 85f35394-47f2-4092-b3f7-ad2d9667ba8b) to 5.3 (client).
+[I 15:59:31.916 LabApp] Saving file at /pooling_layer.ipynb
+[I 15:59:37.467 LabApp] Saving file at /fc_layer.ipynb
+[I 16:07:37.840 LabApp] Saving file at /fc_layer.ipynb
+[I 16:09:38.088 LabApp] Saving file at /fc_layer.ipynb
+[I 16:11:38.399 LabApp] Saving file at /fc_layer.ipynb
+[I 16:12:41.797 LabApp] Adapting from protocol version 5.1 (kernel 85f35394-47f2-4092-b3f7-ad2d9667ba8b) to 5.3 (client).
+[I 16:12:46.934 LabApp] Starting buffering for 9cc78e75-a48a-4cc6-a996-3838efed6900:74354c6f-7b90-49f6-a7a9-d79f8c56a8ca
+[I 16:12:47.339 LabApp] Kernel shutdown: 9cc78e75-a48a-4cc6-a996-3838efed6900
+[I 16:14:41.767 LabApp] Saving file at /fc_layer.ipynb
+[I 16:16:42.068 LabApp] Saving file at /fc_layer.ipynb
+[I 16:18:42.569 LabApp] Saving file at /fc_layer.ipynb
+[I 16:20:42.844 LabApp] Saving file at /fc_layer.ipynb
+[I 16:22:43.301 LabApp] Saving file at /fc_layer.ipynb
+[I 16:26:43.574 LabApp] Saving file at /fc_layer.ipynb
+[I 16:28:43.844 LabApp] Saving file at /fc_layer.ipynb
+[I 16:40:47.577 LabApp] Saving file at /fc_layer.ipynb
+[I 16:42:47.864 LabApp] Saving file at /fc_layer.ipynb
+[I 16:44:48.256 LabApp] Saving file at /fc_layer.ipynb
+[I 16:46:48.503 LabApp] Saving file at /fc_layer.ipynb
+[I 16:48:48.768 LabApp] Saving file at /fc_layer.ipynb
+[I 16:50:49.060 LabApp] Saving file at /fc_layer.ipynb
+[I 16:58:51.740 LabApp] Saving file at /fc_layer.ipynb
+[I 17:00:52.015 LabApp] Saving file at /fc_layer.ipynb
+[I 17:02:52.277 LabApp] Saving file at /fc_layer.ipynb
+[I 17:04:52.546 LabApp] Saving file at /fc_layer.ipynb
+[I 17:06:52.853 LabApp] Saving file at /fc_layer.ipynb
+[I 17:08:53.133 LabApp] Saving file at /fc_layer.ipynb
+[I 17:10:53.402 LabApp] Saving file at /fc_layer.ipynb
+[I 17:12:53.698 LabApp] Saving file at /fc_layer.ipynb
+[I 17:14:54.001 LabApp] Saving file at /fc_layer.ipynb
+[I 17:16:54.284 LabApp] Saving file at /fc_layer.ipynb
+[I 17:17:17.143 LabApp] Saving file at /fc_layer.ipynb
+[I 17:17:22.795 LabApp] Creating new notebook in /
+[I 17:17:23.600 LabApp] Kernel started: cdf4eeac-3337-44c5-b5ea-01c1d16581d0
+[I 17:17:24.059 LabApp] Adapting from protocol version 5.1 (kernel cdf4eeac-3337-44c5-b5ea-01c1d16581d0) to 5.3 (client).
+[I 17:17:47.640 LabApp] Kernel started: 86c1edbf-e212-43fa-864f-591e29d290b9
+[I 17:17:48.030 LabApp] Adapting from protocol version 5.1 (kernel 86c1edbf-e212-43fa-864f-591e29d290b9) to 5.3 (client).
+[I 17:18:06.721 LabApp] Starting buffering for 85f35394-47f2-4092-b3f7-ad2d9667ba8b:13198490-7377-4e11-84fb-0c516a27b61d
+[I 17:18:07.225 LabApp] Kernel shutdown: 85f35394-47f2-4092-b3f7-ad2d9667ba8b
+[I 17:18:07.704 LabApp] Starting buffering for cdf4eeac-3337-44c5-b5ea-01c1d16581d0:8cfc2a80-9fbd-44fd-a8dd-dfa6c8cce0ad
+[I 17:18:08.007 LabApp] Kernel shutdown: cdf4eeac-3337-44c5-b5ea-01c1d16581d0
+[I 17:18:08.312 LabApp] Starting buffering for 86c1edbf-e212-43fa-864f-591e29d290b9:f00af6bf-d9a9-40ca-bcbf-7b546d94ffc9
+[I 17:18:08.615 LabApp] Kernel shutdown: 86c1edbf-e212-43fa-864f-591e29d290b9
+[I 17:18:14.881 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:18:16.597 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:18:19.466 LabApp] Kernel started: 9a504f05-c600-4fbd-9cb0-2dd579dadc3b
+[I 17:18:19.928 LabApp] Adapting from protocol version 5.1 (kernel 9a504f05-c600-4fbd-9cb0-2dd579dadc3b) to 5.3 (client).
+[I 17:32:19.441 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:34:19.717 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:36:19.989 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:38:20.364 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:40:20.652 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:42:20.928 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:44:21.220 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:46:21.533 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:48:21.791 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:50:22.155 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:52:22.440 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:54:22.707 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:56:22.981 LabApp] Saving file at /softmax_loss.ipynb
+[I 17:58:23.297 LabApp] Saving file at /softmax_loss.ipynb
+[I 18:00:23.570 LabApp] Saving file at /softmax_loss.ipynb
+[I 18:02:23.864 LabApp] Saving file at /softmax_loss.ipynb
+[I 18:04:24.130 LabApp] Saving file at /softmax_loss.ipynb
+[I 18:06:24.420 LabApp] Saving file at /softmax_loss.ipynb
+[I 18:08:24.782 LabApp] Saving file at /softmax_loss.ipynb
+[I 18:09:36.167 LabApp] Saving file at /softmax_loss.ipynb
+[I 18:12:20.631 LabApp] Creating new notebook in /
+[I 18:12:21.432 LabApp] Kernel started: 45c1b528-9ff0-40d5-9392-88afbce10864
+[I 18:12:21.908 LabApp] Adapting from protocol version 5.1 (kernel 45c1b528-9ff0-40d5-9392-88afbce10864) to 5.3 (client).
+[I 18:14:21.376 LabApp] Saving file at /Untitled.ipynb
+[I 18:15:10.909 LabApp] Saving file at /activation_func_relu.ipynb
+[I 18:15:16.045 LabApp] Starting buffering for 9a504f05-c600-4fbd-9cb0-2dd579dadc3b:b68c9844-898f-49b8-ae41-901080f9492d
+[I 18:15:16.450 LabApp] Kernel shutdown: 9a504f05-c600-4fbd-9cb0-2dd579dadc3b
+[I 18:15:16.451 LabApp] Starting buffering for 45c1b528-9ff0-40d5-9392-88afbce10864:f5e5ade0-6713-4e5b-8574-4e4958e5d6cc
+[I 18:15:16.855 LabApp] Kernel shutdown: 45c1b528-9ff0-40d5-9392-88afbce10864
+[I 18:16:11.912 LabApp] Creating new notebook in /
+[I 18:16:12.888 LabApp] Kernel started: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 18:16:13.284 LabApp] Adapting from protocol version 5.1 (kernel 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3) to 5.3 (client).
+[I 18:16:54.145 LabApp] Kernel started: 4e653929-db33-4244-8258-0201f1ba8936
+[I 18:16:54.605 LabApp] Adapting from protocol version 5.1 (kernel 4e653929-db33-4244-8258-0201f1ba8936) to 5.3 (client).
+[I 18:18:12.861 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 18:20:13.192 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 18:22:13.651 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 18:24:13.907 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 18:26:14.167 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 18:28:14.429 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 18:30:14.773 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 18:31:13.753 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 20:02:56.817 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 20:19:02.820 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 20:20:55.102 LabApp] Kernel started: 068b6674-bd95-476e-9dac-ce838f5576c1
+[I 20:20:55.505 LabApp] Adapting from protocol version 5.1 (kernel 068b6674-bd95-476e-9dac-ce838f5576c1) to 5.3 (client).
+[I 20:21:03.329 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 20:22:55.022 LabApp] Saving file at /conv_layer.ipynb
+[I 20:23:00.357 LabApp] Adapting from protocol version 5.1 (kernel 4e653929-db33-4244-8258-0201f1ba8936) to 5.3 (client).
+[I 20:23:54.863 LabApp] Kernel started: b609a0f1-8d96-4737-b4ca-5b2bd949835e
+[I 20:23:55.281 LabApp] Adapting from protocol version 5.1 (kernel b609a0f1-8d96-4737-b4ca-5b2bd949835e) to 5.3 (client).
+[I 20:24:56.938 LabApp] Kernel started: 39d5fd20-aec9-4094-b035-d32383f87b68
+[I 20:24:57.388 LabApp] Adapting from protocol version 5.1 (kernel 39d5fd20-aec9-4094-b035-d32383f87b68) to 5.3 (client).
+[I 20:26:33.026 LabApp] Kernel started: 2bcd0368-e44c-4780-b67f-feb6181b17e7
+[I 20:26:33.419 LabApp] Adapting from protocol version 5.1 (kernel 2bcd0368-e44c-4780-b67f-feb6181b17e7) to 5.3 (client).
+[I 20:27:00.574 LabApp] Starting buffering for 4e653929-db33-4244-8258-0201f1ba8936:04d1a649-76b7-4bbe-8c9d-676876a62c2b
+[I 20:27:00.878 LabApp] Kernel shutdown: 4e653929-db33-4244-8258-0201f1ba8936
+[I 20:27:00.951 LabApp] Starting buffering for 068b6674-bd95-476e-9dac-ce838f5576c1:8879ebd6-e516-45be-ba8f-3f897db8573b
+[I 20:27:01.256 LabApp] Kernel shutdown: 068b6674-bd95-476e-9dac-ce838f5576c1
+[I 20:27:01.303 LabApp] Starting buffering for b609a0f1-8d96-4737-b4ca-5b2bd949835e:b6ed1e77-a0ba-4471-a8fa-7b93d388a7e7
+[I 20:27:01.607 LabApp] Kernel shutdown: b609a0f1-8d96-4737-b4ca-5b2bd949835e
+[I 20:27:01.608 LabApp] Starting buffering for 39d5fd20-aec9-4094-b035-d32383f87b68:c58f19a6-99a1-46d4-8ce1-2f88b46b0227
+[I 20:27:02.011 LabApp] Kernel shutdown: 39d5fd20-aec9-4094-b035-d32383f87b68
+[I 20:27:02.012 LabApp] Starting buffering for 2bcd0368-e44c-4780-b67f-feb6181b17e7:19da8849-f6d8-4d9c-8b51-344c41e41cdf
+[I 20:27:02.316 LabApp] Kernel shutdown: 2bcd0368-e44c-4780-b67f-feb6181b17e7
+[I 20:31:03.820 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 20:33:04.148 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 20:35:04.909 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:01:09.905 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:09:12.901 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:11:13.816 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:15:14.164 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:17:14.634 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:17:57.178 LabApp] Kernel started: d89f684c-19bd-4d65-b9f8-643fc776e6dd
+[I 21:17:57.568 LabApp] Adapting from protocol version 5.1 (kernel d89f684c-19bd-4d65-b9f8-643fc776e6dd) to 5.3 (client).
+[I 21:19:14.892 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:21:15.215 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:23:15.581 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:25:15.853 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:27:16.180 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:29:16.516 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:31:16.783 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:33:17.116 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:35:17.391 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:37:17.642 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:39:17.907 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:40:32.148 LabApp] Adapting from protocol version 5.1 (kernel d89f684c-19bd-4d65-b9f8-643fc776e6dd) to 5.3 (client).
+[I 21:40:32.746 LabApp] Kernel started: ce825561-3071-42ac-be9e-bc7b559c47ed
+[I 21:40:33.128 LabApp] Adapting from protocol version 5.1 (kernel ce825561-3071-42ac-be9e-bc7b559c47ed) to 5.3 (client).
+[I 21:40:34.031 LabApp] Kernel started: 048c0e8c-9fbc-4e54-b729-7f4ccb486bcd
+[I 21:40:34.506 LabApp] Adapting from protocol version 5.1 (kernel 048c0e8c-9fbc-4e54-b729-7f4ccb486bcd) to 5.3 (client).
+[I 21:40:34.544 LabApp] Kernel started: eecc7ee5-f3fb-402b-9029-794043af1261
+[I 21:40:34.993 LabApp] Adapting from protocol version 5.1 (kernel eecc7ee5-f3fb-402b-9029-794043af1261) to 5.3 (client).
+[I 21:40:36.064 LabApp] Kernel started: e4350da8-5d95-4351-a144-7cd3e21ac149
+[I 21:40:36.456 LabApp] Adapting from protocol version 5.1 (kernel e4350da8-5d95-4351-a144-7cd3e21ac149) to 5.3 (client).
+[I 21:41:18.295 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:41:39.581 LabApp] Starting buffering for d89f684c-19bd-4d65-b9f8-643fc776e6dd:4eb8b693-42d6-4470-b9f4-6e86f68e2a3c
+[I 21:41:39.886 LabApp] Kernel shutdown: d89f684c-19bd-4d65-b9f8-643fc776e6dd
+[I 21:41:39.917 LabApp] Starting buffering for ce825561-3071-42ac-be9e-bc7b559c47ed:c60655f7-21da-42cb-b944-9d6c1e933b73
+[I 21:41:40.321 LabApp] Kernel shutdown: ce825561-3071-42ac-be9e-bc7b559c47ed
+[I 21:41:40.322 LabApp] Starting buffering for 048c0e8c-9fbc-4e54-b729-7f4ccb486bcd:3adf7cbb-2840-477b-bd00-ac513cf0e3cb
+[I 21:41:40.626 LabApp] Kernel shutdown: 048c0e8c-9fbc-4e54-b729-7f4ccb486bcd
+[I 21:41:40.627 LabApp] Starting buffering for eecc7ee5-f3fb-402b-9029-794043af1261:d050d76c-797c-4564-9040-ae0cd786a82a
+[I 21:41:41.332 LabApp] Kernel shutdown: eecc7ee5-f3fb-402b-9029-794043af1261
+[I 21:41:41.333 LabApp] Starting buffering for e4350da8-5d95-4351-a144-7cd3e21ac149:187bfddc-14dc-4b39-a6e4-734213a443d6
+[I 21:41:41.636 LabApp] Kernel shutdown: e4350da8-5d95-4351-a144-7cd3e21ac149
+[I 21:43:18.655 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:45:18.914 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:49:19.237 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:51:19.578 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:54:59.174 LabApp] Kernel interrupted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 21:55:19.891 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:57:20.175 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 21:59:20.553 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:01:20.890 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:03:21.173 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:05:21.485 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:07:21.754 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:09:22.013 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:11:22.376 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:13:22.633 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:15:22.917 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:17:23.207 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:19:23.500 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:21:23.825 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:23:24.136 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:24:28.774 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:25:30.373 LabApp] Kernel restarted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 22:26:29.357 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:28:29.730 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:32:30.217 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:34:30.545 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:36:30.866 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:38:18.033 LabApp] Kernel restarted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 22:38:31.192 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:40:09.949 LabApp] Kernel restarted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 22:40:31.527 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:41:50.530 LabApp] Kernel restarted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 22:42:31.872 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:46:32.378 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:47:15.411 LabApp] Kernel restarted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 22:48:32.725 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:56:33.250 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 22:58:21.777 LabApp] Kernel restarted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 22:58:33.595 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:00:03.095 LabApp] Kernel restarted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 23:00:33.917 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:01:38.075 LabApp] Kernel restarted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 23:02:34.332 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:04:21.006 LabApp] Kernel restarted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 23:04:34.798 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:06:35.140 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:08:17.390 LabApp] Kernel restarted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 23:08:35.405 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:09:26.123 LabApp] Kernel restarted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 23:10:35.679 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:11:02.857 LabApp] Kernel restarted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 23:11:47.087 LabApp] Kernel interrupted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 23:12:35.960 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:15:23.331 LabApp] Kernel restarted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 23:16:36.254 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:18:36.545 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:20:36.821 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:22:37.105 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:24:37.400 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:26:37.819 LabApp] Saving file at /cnn_on_mnist.ipynb
+[I 23:27:50.515 LabApp] Kernel interrupted: 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3
+[I 23:28:00.969 LabApp] Starting buffering for 049cb7d2-c3b8-4efd-b2ce-e1d0e2e67ba3:e8c4ab63-084a-4049-b066-f7c9b70e4108
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 08:33:45.588 LabApp] JupyterLab extension loaded from /home/gmm/conda/lib/python3.7/site-packages/jupyterlab
+[I 08:33:45.660 LabApp] JupyterLab application directory is /home/gmm/conda/share/jupyter/lab
+[I 08:33:45.661 LabApp] Serving notebooks from local directory: /home/gmm/mynotebook/hands-on-DL
+[I 08:33:45.661 LabApp] The Jupyter Notebook is running at:
+[I 08:33:45.661 LabApp] http://localhost:8888/
+[I 08:33:45.661 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 08:38:04.201 LabApp] Build is up to date
+[I 08:38:05.772 LabApp] Kernel started: af8e032c-b373-4562-912b-2fe98af52295
+-/|\-/|\-/|\-/|[I 08:38:07.712 LabApp] Adapting from protocol version 5.1 (kernel af8e032c-b373-4562-912b-2fe98af52295) to 5.3 (client).
+[I 08:38:07.725 LabApp] Adapting from protocol version 5.1 (kernel af8e032c-b373-4562-912b-2fe98af52295) to 5.3 (client).
+\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.intellij.ide.ClassUtilCore to field sun.net.www.protocol.jar.JarFileFactory.fileCache
+WARNING: Please consider reporting this to the maintainers of com.intellij.ide.ClassUtilCore
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2019-09-01 08:41:03,156 [  30818]   WARN - llij.ide.plugins.PluginManager - TFS not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,157 [  30819]   WARN - llij.ide.plugins.PluginManager - CVS not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,157 [  30819]   WARN - llij.ide.plugins.PluginManager - Subversion not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,157 [  30819]   WARN - llij.ide.plugins.PluginManager - Material Theme UI not loaded: since build 192.6262.7 > PC-192.5728.105 
+2019-09-01 08:41:03,157 [  30819]   WARN - llij.ide.plugins.PluginManager - The Doki-Doki Theme not loaded: since build 192.6262.58 > PC-192.5728.105 
+2019-09-01 08:41:03,158 [  30820]   WARN - llij.ide.plugins.PluginManager - Image Icon Viewer not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,158 [  30820]   WARN - llij.ide.plugins.PluginManager - Task Management not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,159 [  30821]   WARN - llij.ide.plugins.PluginManager - HumpTransferNew not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,159 [  30821]   WARN - llij.ide.plugins.PluginManager - Docker not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,159 [  30821]   WARN - llij.ide.plugins.PluginManager - Gherkin not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,160 [  30822]   WARN - llij.ide.plugins.PluginManager - Ambient not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,160 [  30822]   WARN - llij.ide.plugins.PluginManager - IDETalk not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,160 [  30822]   WARN - llij.ide.plugins.PluginManager - XPathView + XSLT not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,161 [  30823]   WARN - llij.ide.plugins.PluginManager - Dart not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,161 [  30823]   WARN - llij.ide.plugins.PluginManager - Apache config (.htaccess) not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,161 [  30823]   WARN - llij.ide.plugins.PluginManager - Handlebars/Mustache not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,161 [  30823]   WARN - llij.ide.plugins.PluginManager - Ini not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,161 [  30823]   WARN - llij.ide.plugins.PluginManager - Puppet not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,162 [  30824]   WARN - llij.ide.plugins.PluginManager - Go Template not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,162 [  30824]   WARN - llij.ide.plugins.PluginManager - Properties not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,162 [  30824]   WARN - llij.ide.plugins.PluginManager - EditorConfig not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,162 [  30824]   WARN - llij.ide.plugins.PluginManager - Phing not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,162 [  30824]   WARN - llij.ide.plugins.PluginManager - File Watchers not loaded: since build 192.6262 > PC-192.5728.105 
+2019-09-01 08:41:03,163 [  30825]   WARN - llij.ide.plugins.PluginManager - Performance Testing not loaded: since build 192.6262 > PC-192.5728.105 
+[I 08:43:25.729 LabApp] Saving file at /cnn_on_mnist.ipynb
+2019-09-01 08:49:06,337 [ 513999]   WARN - tartup.impl.StartupManagerImpl - /home/gmm/pycharm_wk/hands-on-dl/learn01_BasicCNN/.idea 
+java.io.FileNotFoundException: /home/gmm/pycharm_wk/hands-on-dl/learn01_BasicCNN/.idea
+	at com.intellij.openapi.util.io.FileUtil.isFileSystemCaseSensitive(FileUtil.java:1467)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.checkFsSanity(StartupManagerImpl.java:329)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.runPostStartupActivities(StartupManagerImpl.java:237)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.lambda$null$6(ProjectManagerImpl.java:411)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:312)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.doRun(LaterInvocator.java:433)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:416)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:399)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:873)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:461)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:704)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:460)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+[I 09:41:08.790 LabApp] Creating new notebook in /layers
+[I 09:41:09.950 LabApp] Kernel started: a3708c8f-4f32-4814-a3a9-8df031f40482
+[I 09:41:10.543 LabApp] Adapting from protocol version 5.1 (kernel a3708c8f-4f32-4814-a3a9-8df031f40482) to 5.3 (client).
+[I 09:43:10.156 LabApp] Saving file at /layers/Untitled.ipynb
+[I 10:15:22.243 LabApp] Saving file at /layers/Untitled.ipynb
+[I 10:17:22.762 LabApp] Saving file at /layers/Untitled.ipynb
+[I 10:27:23.432 LabApp] Saving file at /layers/Untitled.ipynb
+[I 11:37:08.861 LabApp] Starting buffering for a3708c8f-4f32-4814-a3a9-8df031f40482:0b6fbfb6-a5c8-4eff-8e2b-e264e62cee3f
+[I 11:37:09.365 LabApp] Kernel shutdown: a3708c8f-4f32-4814-a3a9-8df031f40482
+[W 11:37:09.369 LabApp] delete /layers/Untitled.ipynb
+[I 11:37:32.596 LabApp] Creating new directory in /
+[I 11:37:50.360 LabApp] Creating new directory in /
+[I 11:41:55.533 LabApp] Creating new notebook in /lesson2_RNN_learn
+[I 11:41:56.242 LabApp] Kernel started: 1b230582-0577-4d18-8434-c6b967a65bd6
+[I 11:41:56.654 LabApp] Adapting from protocol version 5.1 (kernel 1b230582-0577-4d18-8434-c6b967a65bd6) to 5.3 (client).
+[I 11:43:03.388 LabApp] Copying lesson2_RNN_learn/basicRNNcell.ipynb to /lesson2_RNN_learn
+[I 11:43:05.965 LabApp] Copying lesson2_RNN_learn/basicRNNcell-Copy1.ipynb to /lesson2_RNN_learn
+[W 11:43:20.540 LabApp] delete /lesson2_RNN_learn/basicRNNcell-Copy1.ipynb
+[I 11:43:23.542 LabApp] Kernel started: 3c5e09de-0ac6-41c5-ad6c-994675b4dd94
+[I 11:43:23.914 LabApp] Adapting from protocol version 5.1 (kernel 3c5e09de-0ac6-41c5-ad6c-994675b4dd94) to 5.3 (client).
+[I 11:43:56.294 LabApp] Saving file at /lesson2_RNN_learn/basicRNNcell.ipynb
+[I 11:44:01.189 LabApp] Saving file at /lesson2_RNN_learn/LSTMcell.ipynb
+[I 12:49:54.134 LabApp] Starting buffering for 3c5e09de-0ac6-41c5-ad6c-994675b4dd94:72cd2a95-01c0-4530-9c8f-ef275b9b1991
+[I 12:49:54.134 LabApp] Starting buffering for af8e032c-b373-4562-912b-2fe98af52295:a7321ed8-f5a1-4452-b53b-02e2e949e3d0
+[I 12:49:54.135 LabApp] Starting buffering for 1b230582-0577-4d18-8434-c6b967a65bd6:8e991e6d-c4dc-476e-ae86-c99bf95bc25c
+[I 12:49:58.432 LabApp] Build is up to date
+[I 12:49:59.018 LabApp] Adapting from protocol version 5.1 (kernel 1b230582-0577-4d18-8434-c6b967a65bd6) to 5.3 (client).
+[I 12:49:59.031 LabApp] Adapting from protocol version 5.1 (kernel 3c5e09de-0ac6-41c5-ad6c-994675b4dd94) to 5.3 (client).
+[I 13:29:04.458 LabApp] Adapting from protocol version 5.1 (kernel 3c5e09de-0ac6-41c5-ad6c-994675b4dd94) to 5.3 (client).
+[I 13:32:48.067 LabApp] Starting buffering for 3c5e09de-0ac6-41c5-ad6c-994675b4dd94:6cf95fe9-ad0b-4dac-b5ce-294bf4926f13
+[I 13:32:48.068 LabApp] Starting buffering for 1b230582-0577-4d18-8434-c6b967a65bd6:b6b80907-af21-48e6-8bc3-516488d96e2b
+[C 23:56:27.364 LabApp] received signal 15, stopping
+[I 23:56:27.364 LabApp] Shutting down 3 kernels
+[I 23:56:27.466 LabApp] Kernel shutdown: af8e032c-b373-4562-912b-2fe98af52295
+[I 23:56:27.466 LabApp] Kernel shutdown: 1b230582-0577-4d18-8434-c6b967a65bd6
+[I 23:56:27.466 LabApp] Kernel shutdown: 3c5e09de-0ac6-41c5-ad6c-994675b4dd94
+[I 23:09:25.282 LabApp] JupyterLab extension loaded from /home/gmm/conda/lib/python3.7/site-packages/jupyterlab
+[I 23:09:25.321 LabApp] JupyterLab application directory is /home/gmm/conda/share/jupyter/lab
+[I 23:09:25.323 LabApp] Serving notebooks from local directory: /home/gmm/mynotebook/hands-on-DL
+[I 23:09:25.323 LabApp] The Jupyter Notebook is running at:
+[I 23:09:25.323 LabApp] http://localhost:8888/
+[I 23:09:25.323 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 23:12:48.519 LabApp] Creating new notebook in /lesson04_practice_on_cifar100
+[I 23:12:49.390 LabApp] Kernel started: 82f6ca0d-13b9-4535-bc15-8b00bf5fbfea
+[I 23:12:50.045 LabApp] Adapting from protocol version 5.1 (kernel 82f6ca0d-13b9-4535-bc15-8b00bf5fbfea) to 5.3 (client).
+[I 23:14:49.359 LabApp] Saving file at /lesson04_practice_on_cifar100/read_cifar100.ipynb
+[I 23:16:49.694 LabApp] Saving file at /lesson04_practice_on_cifar100/read_cifar100.ipynb
+[I 23:18:50.251 LabApp] Saving file at /lesson04_practice_on_cifar100/read_cifar100.ipynb
+[I 23:20:50.566 LabApp] Saving file at /lesson04_practice_on_cifar100/read_cifar100.ipynb
+[I 23:22:51.609 LabApp] Saving file at /lesson04_practice_on_cifar100/read_cifar100.ipynb
+[I 23:24:51.935 LabApp] Saving file at /lesson04_practice_on_cifar100/read_cifar100.ipynb
+[I 23:26:52.264 LabApp] Saving file at /lesson04_practice_on_cifar100/read_cifar100.ipynb
+[I 23:28:52.610 LabApp] Saving file at /lesson04_practice_on_cifar100/read_cifar100.ipynb
+[I 23:30:53.023 LabApp] Saving file at /lesson04_practice_on_cifar100/read_cifar100.ipynb
+[I 23:31:32.044 LabApp] Saving file at /lesson04_practice_on_cifar100/read_cifar100.ipynb
+[I 23:31:50.102 LabApp] Creating new notebook in /lesson02_RNN_learn
+[I 23:31:50.946 LabApp] Kernel started: 6fe053ce-746b-473f-b21f-1382a2928689
+[I 23:31:51.479 LabApp] Adapting from protocol version 5.1 (kernel 6fe053ce-746b-473f-b21f-1382a2928689) to 5.3 (client).
+[I 23:32:00.452 LabApp] Starting buffering for 6fe053ce-746b-473f-b21f-1382a2928689:810985eb-16f5-4236-b2bc-70bbfaabf36e
+[I 23:32:00.859 LabApp] Kernel shutdown: 6fe053ce-746b-473f-b21f-1382a2928689
+[W 23:32:00.877 LabApp] delete /lesson02_RNN_learn/Untitled.ipynb
+[I 23:32:02.322 LabApp] Kernel started: a1a11739-067d-45b6-b07c-96273d6978c1
+[I 23:32:02.804 LabApp] Adapting from protocol version 5.1 (kernel a1a11739-067d-45b6-b07c-96273d6978c1) to 5.3 (client).
+[I 23:33:21.684 LabApp] Creating new notebook in /lesson02_RNN_learn
+[I 23:33:22.548 LabApp] Kernel started: 31d89599-e38f-44a9-a256-d52e56cf0b73
+[I 23:33:23.190 LabApp] Adapting from protocol version 5.1 (kernel 31d89599-e38f-44a9-a256-d52e56cf0b73) to 5.3 (client).
+[I 23:34:02.421 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:35:22.512 LabApp] Saving file at /lesson02_RNN_learn/func_utils.ipynb
+[I 23:37:22.971 LabApp] Saving file at /lesson02_RNN_learn/func_utils.ipynb
+[I 23:39:23.317 LabApp] Saving file at /lesson02_RNN_learn/func_utils.ipynb
+[I 23:41:23.626 LabApp] Saving file at /lesson02_RNN_learn/func_utils.ipynb
+[I 23:45:24.046 LabApp] Saving file at /lesson02_RNN_learn/func_utils.ipynb
+[I 23:47:24.458 LabApp] Saving file at /lesson02_RNN_learn/func_utils.ipynb
+[I 23:49:24.849 LabApp] Saving file at /lesson02_RNN_learn/func_utils.ipynb
+[I 23:49:35.399 LabApp] Creating new notebook in /lesson02_RNN_learn
+[I 23:49:36.398 LabApp] Kernel started: 2d9faa6c-1842-4831-8f2a-0203fe289a85
+[I 23:49:37.023 LabApp] Adapting from protocol version 5.1 (kernel 2d9faa6c-1842-4831-8f2a-0203fe289a85) to 5.3 (client).
+[I 23:51:36.347 LabApp] Saving file at /lesson02_RNN_learn/activators.ipynb
+[I 23:53:36.706 LabApp] Saving file at /lesson02_RNN_learn/activators.ipynb
+[I 23:55:37.058 LabApp] Saving file at /lesson02_RNN_learn/activators.ipynb
+[I 23:57:37.545 LabApp] Saving file at /lesson02_RNN_learn/activators.ipynb
+[I 23:59:37.930 LabApp] Saving file at /lesson02_RNN_learn/activators.ipynb
+[I 23:59:41.980 LabApp] Saving file at /lesson02_RNN_learn/activators.ipynb
+[I 23:59:43.133 LabApp] Saving file at /lesson02_RNN_learn/func_utils.ipynb
+[I 23:59:46.918 LabApp] Starting buffering for 31d89599-e38f-44a9-a256-d52e56cf0b73:00fefd08-cb1f-4e85-9d2f-521fd4f1c591
+[I 23:59:46.919 LabApp] Starting buffering for 2d9faa6c-1842-4831-8f2a-0203fe289a85:af551723-a102-4580-b39e-7d7c3e1b65de
+[I 23:59:46.920 LabApp] Starting buffering for 82f6ca0d-13b9-4535-bc15-8b00bf5fbfea:2ac25bd8-667c-40bc-a517-82c38cfb4de4
+[I 23:59:46.920 LabApp] Starting buffering for a1a11739-067d-45b6-b07c-96273d6978c1:666e9983-17b4-4545-a760-40bc2367d2f3
+[C 23:59:55.636 LabApp] received signal 15, stopping
+[I 23:59:55.637 LabApp] Shutting down 4 kernels
+[I 23:59:55.738 LabApp] Kernel shutdown: 82f6ca0d-13b9-4535-bc15-8b00bf5fbfea
+[I 23:59:55.738 LabApp] Kernel shutdown: a1a11739-067d-45b6-b07c-96273d6978c1
+[I 23:59:55.739 LabApp] Kernel shutdown: 31d89599-e38f-44a9-a256-d52e56cf0b73
+[I 23:59:55.739 LabApp] Kernel shutdown: 2d9faa6c-1842-4831-8f2a-0203fe289a85
+[I 18:20:09.233 LabApp] JupyterLab extension loaded from /home/gmm/conda/lib/python3.7/site-packages/jupyterlab
+[I 18:20:09.347 LabApp] JupyterLab application directory is /home/gmm/conda/share/jupyter/lab
+[I 18:20:09.349 LabApp] Serving notebooks from local directory: /home/gmm/mynotebook/hands-on-DL
+[I 18:20:09.349 LabApp] The Jupyter Notebook is running at:
+[I 18:20:09.349 LabApp] http://localhost:8888/
+[I 18:20:09.349 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 18:30:08.585 LabApp] 302 GET / (127.0.0.1) 0.34ms
+[I 18:30:15.012 LabApp] Build is up to date
+-/|\-/|\-/|\-[I 18:30:21.209 LabApp] Kernel started: 14c6c94b-8eb7-47c8-8934-9f46b6cded01
+/|\-/|\-/|\-/|\-/|\-/|\-[I 18:30:23.646 LabApp] Adapting from protocol version 5.1 (kernel 14c6c94b-8eb7-47c8-8934-9f46b6cded01) to 5.3 (client).
+[I 18:30:23.660 LabApp] Adapting from protocol version 5.1 (kernel 14c6c94b-8eb7-47c8-8934-9f46b6cded01) to 5.3 (client).
+/[I 18:30:23.672 LabApp] Adapting from protocol version 5.1 (kernel 14c6c94b-8eb7-47c8-8934-9f46b6cded01) to 5.3 (client).
+|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-[I 18:31:10.638 LabApp] Kernel started: c238c27d-bc60-4cee-b264-8a69fce82dc9
+[I 18:31:11.322 LabApp] Adapting from protocol version 5.1 (kernel c238c27d-bc60-4cee-b264-8a69fce82dc9) to 5.3 (client).
+[I 18:31:26.478 LabApp] Kernel started: 7e58e12f-5372-461b-ab90-372b425f966b
+[I 18:31:27.181 LabApp] Adapting from protocol version 5.1 (kernel 7e58e12f-5372-461b-ab90-372b425f966b) to 5.3 (client).
+[I 18:32:09.702 LabApp] Starting buffering for 14c6c94b-8eb7-47c8-8934-9f46b6cded01:042cec24-ec46-451f-b5bc-20b2b426e249
+[I 18:32:10.207 LabApp] Kernel shutdown: 14c6c94b-8eb7-47c8-8934-9f46b6cded01
+[I 18:32:12.605 LabApp] Starting buffering for c238c27d-bc60-4cee-b264-8a69fce82dc9:36cce3d2-e733-46ae-9400-4094ba19b07a
+[I 18:32:13.210 LabApp] Kernel shutdown: c238c27d-bc60-4cee-b264-8a69fce82dc9
+[I 18:32:13.211 LabApp] Starting buffering for 7e58e12f-5372-461b-ab90-372b425f966b:f1744141-eb73-438d-b8e2-30ca62651336
+[I 18:32:13.816 LabApp] Kernel shutdown: 7e58e12f-5372-461b-ab90-372b425f966b
+[I 18:32:21.047 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:32:23.545 LabApp] Kernel started: 080f216e-cbae-4494-bc20-76ada3d95bdd
+[I 18:32:24.189 LabApp] Adapting from protocol version 5.1 (kernel 080f216e-cbae-4494-bc20-76ada3d95bdd) to 5.3 (client).
+[I 18:34:23.578 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:36:24.052 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:38:24.563 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:40:24.993 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:42:25.614 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:44:26.141 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:46:26.667 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:48:26.981 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:50:27.473 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:52:27.753 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:54:28.307 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:55:43.284 LabApp] Kernel started: 3521d93c-6cb3-43e0-a581-b78ed191ae82
+[I 18:55:43.796 LabApp] Adapting from protocol version 5.1 (kernel 3521d93c-6cb3-43e0-a581-b78ed191ae82) to 5.3 (client).
+[I 18:56:28.710 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:57:43.332 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 18:59:43.739 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:13:44.383 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:23:44.987 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:25:45.656 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:27:45.979 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:29:46.367 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:31:46.797 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:33:47.292 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:35:47.893 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:37:48.327 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:39:48.886 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:39:57.577 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:40:29.144 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 19:52:29.554 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 19:54:30.068 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 19:56:30.506 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 19:58:30.927 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:00:31.442 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:02:31.725 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:04:32.127 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:06:32.550 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:08:32.973 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:10:33.235 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:12:33.882 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:14:34.462 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:16:35.030 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:18:35.509 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:20:35.949 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:22:36.470 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:32:36.742 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:34:37.188 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:40:37.615 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:42:38.226 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:44:38.506 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:46:38.795 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:48:39.291 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:54:39.732 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:56:39.993 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 20:58:40.582 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 21:00:41.045 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 21:02:41.508 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 21:04:41.950 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 21:06:42.346 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 21:08:42.742 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 21:10:43.167 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 21:12:43.624 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 21:14:44.137 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 21:16:44.399 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 21:20:40.867 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 22:53:36.390 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 22:55:37.012 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 22:57:37.393 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 22:59:37.671 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:01:38.121 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:07:38.537 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:09:38.904 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:11:39.352 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:13:39.633 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:15:40.065 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:17:40.340 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:21:40.851 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:23:41.522 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:25:42.146 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:27:42.576 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:29:42.971 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:31:43.400 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:33:43.694 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:35:43.988 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:37:44.262 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:39:44.553 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:41:44.851 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:43:45.137 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:45:45.465 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:47:45.744 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:49:46.028 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:51:47.301 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:53:47.573 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:55:47.857 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:57:48.142 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 23:59:48.473 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 00:01:48.824 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 00:03:49.174 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 00:05:49.520 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 00:07:49.796 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 00:09:50.079 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 00:11:50.457 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 00:12:21.507 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 00:14:21.797 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 00:16:22.190 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 00:18:22.493 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 00:20:22.785 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 00:21:42.191 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 00:21:56.423 LabApp] Starting buffering for 080f216e-cbae-4494-bc20-76ada3d95bdd:c34fc42c-9100-4f10-86c9-14ae10853317
+[I 00:21:56.423 LabApp] Starting buffering for 3521d93c-6cb3-43e0-a581-b78ed191ae82:274a786f-84ef-4747-b5f6-5d7d4b984483
+[C 00:22:02.581 LabApp] received signal 15, stopping
+[I 00:22:02.581 LabApp] Shutting down 2 kernels
+[I 00:22:02.682 LabApp] Kernel shutdown: 080f216e-cbae-4494-bc20-76ada3d95bdd
+[I 00:22:02.683 LabApp] Kernel shutdown: 3521d93c-6cb3-43e0-a581-b78ed191ae82
+[I 09:48:53.952 LabApp] JupyterLab extension loaded from /home/gmm/conda/lib/python3.7/site-packages/jupyterlab
+[I 09:48:54.019 LabApp] JupyterLab application directory is /home/gmm/conda/share/jupyter/lab
+[I 09:48:54.026 LabApp] Serving notebooks from local directory: /home/gmm/mynotebook/hands-on-DL
+[I 09:48:54.026 LabApp] The Jupyter Notebook is running at:
+[I 09:48:54.026 LabApp] http://localhost:8888/
+[I 09:48:54.026 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 09:49:14.531 LabApp] 302 GET / (127.0.0.1) 2.41ms
+[I 09:49:26.640 LabApp] Build is up to date
+[I 09:49:29.908 LabApp] Kernel started: 91324a6f-6d53-4ee0-b467-b8701e5e4355
+[I 09:49:29.949 LabApp] Kernel started: b0cfa77b-ef2d-448d-9fb8-84ac02814b45
+-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-[I 09:49:33.403 LabApp] Adapting from protocol version 5.1 (kernel 91324a6f-6d53-4ee0-b467-b8701e5e4355) to 5.3 (client).
+/[I 09:49:33.422 LabApp] Adapting from protocol version 5.1 (kernel 91324a6f-6d53-4ee0-b467-b8701e5e4355) to 5.3 (client).
+[I 09:49:33.443 LabApp] Adapting from protocol version 5.1 (kernel b0cfa77b-ef2d-448d-9fb8-84ac02814b45) to 5.3 (client).
+[I 09:49:33.457 LabApp] Adapting from protocol version 5.1 (kernel b0cfa77b-ef2d-448d-9fb8-84ac02814b45) to 5.3 (client).
+[I 09:49:33.497 LabApp] Adapting from protocol version 5.1 (kernel b0cfa77b-ef2d-448d-9fb8-84ac02814b45) to 5.3 (client).
+|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\[I 09:51:29.377 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 09:53:30.453 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 09:55:31.274 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 09:57:32.223 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:01:33.017 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:17:33.560 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:19:34.679 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:21:35.436 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:23:36.233 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:25:36.652 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:27:37.505 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:29:00.030 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:29:29.496 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:30:18.809 LabApp] Adapting from protocol version 5.1 (kernel 91324a6f-6d53-4ee0-b467-b8701e5e4355) to 5.3 (client).
+[I 10:31:30.290 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:32:18.379 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:33:31.080 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:33:55.260 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:35:31.667 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:37:32.302 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:39:32.942 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:41:33.603 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:43:34.386 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:45:34.754 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:47:35.433 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:49:36.231 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:51:37.053 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:53:37.824 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:55:38.572 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:57:39.097 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:59:39.796 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:00:54.646 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:02:55.090 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:04:55.659 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:06:56.217 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:08:56.924 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:10:57.538 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:12:58.092 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:14:58.663 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:16:59.364 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:17:25.288 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:19:26.045 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:21:26.776 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:23:27.520 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:25:28.282 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:27:29.044 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:29:29.802 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:31:30.635 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:33:31.355 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:34:34.649 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:36:35.396 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:38:17.877 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:38:34.204 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:40:35.666 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:41:48.445 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:42:31.228 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:44:31.822 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:44:32.367 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:45:34.520 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:46:03.211 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 11:46:05.339 LabApp] Starting buffering for b0cfa77b-ef2d-448d-9fb8-84ac02814b45:47d1ef26-ad91-4d4d-b249-a465a57c5582
+[I 11:46:05.357 LabApp] Starting buffering for 91324a6f-6d53-4ee0-b467-b8701e5e4355:69fbfe90-362b-42f4-94d6-a258cde0fca2
+[C 11:46:19.787 LabApp] received signal 15, stopping
+[I 11:46:19.789 LabApp] Shutting down 2 kernels
+[I 11:46:19.917 LabApp] Kernel shutdown: 91324a6f-6d53-4ee0-b467-b8701e5e4355
+[I 11:46:19.919 LabApp] Kernel shutdown: b0cfa77b-ef2d-448d-9fb8-84ac02814b45
+[I 13:43:01.309 LabApp] JupyterLab extension loaded from /home/gmm/conda/lib/python3.7/site-packages/jupyterlab
+[I 13:43:01.371 LabApp] JupyterLab application directory is /home/gmm/conda/share/jupyter/lab
+[I 13:43:01.375 LabApp] Serving notebooks from local directory: /home/gmm/mynotebook/hands-on-DL
+[I 13:43:01.376 LabApp] The Jupyter Notebook is running at:
+[I 13:43:01.376 LabApp] http://localhost:8888/
+[I 13:43:01.376 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 13:43:02.885 LabApp] 302 GET / (127.0.0.1) 2.37ms
+[I 13:43:10.921 LabApp] Build is up to date
+[I 13:43:14.155 LabApp] Kernel started: a4f13e21-e5d5-4732-9938-a98b49c894d5
+[I 13:43:16.284 LabApp] Adapting from protocol version 5.1 (kernel a4f13e21-e5d5-4732-9938-a98b49c894d5) to 5.3 (client).
+[I 13:43:16.298 LabApp] Adapting from protocol version 5.1 (kernel a4f13e21-e5d5-4732-9938-a98b49c894d5) to 5.3 (client).
+[W 13:43:21.428 LabApp] Failed to fetch package metadata for '@ryantam626/jupyterlab_sublime': URLError(gaierror(-2, 'Name or service not known'))
+[W 13:43:31.469 LabApp] Failed to fetch package metadata for '@jupyterlab/toc': URLError(gaierror(-2, 'Name or service not known'))
+[I 13:45:13.992 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 13:47:14.903 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 13:49:15.503 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 13:51:16.191 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 13:53:16.664 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 13:55:17.329 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 14:09:18.148 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 14:09:50.734 LabApp] Kernel started: c61c27d7-a300-4f4e-8e2c-ee38e17429e9
+[I 14:09:51.540 LabApp] Adapting from protocol version 5.1 (kernel c61c27d7-a300-4f4e-8e2c-ee38e17429e9) to 5.3 (client).
+[I 14:11:18.845 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 14:13:19.467 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 14:15:19.907 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 14:17:20.413 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 14:17:30.854 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 14:17:37.018 LabApp] Starting buffering for c61c27d7-a300-4f4e-8e2c-ee38e17429e9:64776960-e8a2-4569-b699-2f3c6a336ab2
+[I 14:17:37.019 LabApp] Starting buffering for a4f13e21-e5d5-4732-9938-a98b49c894d5:2eca15bd-b1c3-4bcf-900c-8bf89af43617
+[C 14:17:53.275 LabApp] received signal 15, stopping
+[I 14:17:53.276 LabApp] Shutting down 2 kernels
+[I 14:17:53.379 LabApp] Kernel shutdown: a4f13e21-e5d5-4732-9938-a98b49c894d5
+[I 14:17:53.380 LabApp] Kernel shutdown: c61c27d7-a300-4f4e-8e2c-ee38e17429e9
+[I 17:26:27.613 LabApp] JupyterLab extension loaded from /home/gmm/conda/lib/python3.7/site-packages/jupyterlab
+[I 17:26:27.671 LabApp] JupyterLab application directory is /home/gmm/conda/share/jupyter/lab
+[I 17:26:27.677 LabApp] Serving notebooks from local directory: /home/gmm/mynotebook/hands-on-DL
+[I 17:26:27.678 LabApp] The Jupyter Notebook is running at:
+[I 17:26:27.678 LabApp] http://localhost:8888/
+[I 17:26:27.678 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 17:26:45.628 LabApp] Build is up to date
+[I 17:26:47.908 LabApp] Kernel started: 03fa8b86-2b16-4a05-ae88-5f56c6bf0b29
+-/|\-/|\-/|\-/|\-/|\-/|\-/|\-[I 17:26:51.495 LabApp] Adapting from protocol version 5.1 (kernel 03fa8b86-2b16-4a05-ae88-5f56c6bf0b29) to 5.3 (client).
+[I 17:26:51.538 LabApp] Adapting from protocol version 5.1 (kernel 03fa8b86-2b16-4a05-ae88-5f56c6bf0b29) to 5.3 (client).
+/[I 17:26:51.553 LabApp] Adapting from protocol version 5.1 (kernel 03fa8b86-2b16-4a05-ae88-5f56c6bf0b29) to 5.3 (client).
+|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/[I 17:28:47.493 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:32:48.398 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:34:48.860 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:36:49.363 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:38:50.248 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:40:50.877 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:42:51.216 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:44:51.712 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:46:52.100 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:48:52.641 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:50:53.160 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:52:53.660 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:54:54.230 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:56:54.758 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 17:58:55.192 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 18:00:55.706 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 18:02:56.332 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 18:04:57.187 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 18:06:57.704 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 18:08:58.117 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 18:09:04.888 LabApp] Kernel started: e2d56e29-187c-4f73-be92-0721d64fb4ba
+[I 18:09:05.654 LabApp] Adapting from protocol version 5.1 (kernel e2d56e29-187c-4f73-be92-0721d64fb4ba) to 5.3 (client).
+[I 18:09:47.961 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 18:10:58.986 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:03:13.623 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:09:14.048 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:15:14.493 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:17:14.892 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:19:15.294 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:21:15.976 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:23:16.623 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:25:16.955 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:27:17.402 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:29:17.904 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:31:18.274 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:33:18.832 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:35:19.413 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:45:19.890 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:47:20.329 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:49:20.707 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:51:21.064 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:55:21.400 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:57:21.778 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 19:59:22.144 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:01:22.475 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:05:22.841 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:07:23.198 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:09:23.726 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:11:24.079 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:15:24.438 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:17:25.035 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:31:25.522 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:33:25.934 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:37:26.306 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:39:26.761 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:41:27.211 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:49:27.649 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 20:53:28.068 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 21:01:28.464 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 21:03:28.896 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 21:05:29.426 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 21:07:29.889 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 21:09:30.281 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 22:51:31.940 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 23:15:34.709 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 23:17:35.117 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 23:29:36.012 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 23:31:36.356 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 23:33:36.977 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 23:35:37.303 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 23:37:37.849 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 23:39:38.585 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 23:41:38.929 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 23:43:39.293 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 23:47:39.744 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 23:49:40.348 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 23:51:40.798 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 00:01:41.150 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 00:03:41.497 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 00:05:41.817 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 00:07:42.186 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 00:09:42.516 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 00:11:43.009 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 00:13:43.360 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 00:14:35.758 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 00:14:39.418 LabApp] Starting buffering for e2d56e29-187c-4f73-be92-0721d64fb4ba:fd6ea6d4-7251-418b-8efc-58ca66cd7a13
+[I 00:14:39.418 LabApp] Starting buffering for 03fa8b86-2b16-4a05-ae88-5f56c6bf0b29:014b5eee-373a-454d-9195-55e1bdad7b09
+[C 00:14:48.274 LabApp] received signal 15, stopping
+[I 00:14:48.275 LabApp] Shutting down 2 kernels
+[I 00:14:48.376 LabApp] Kernel shutdown: 03fa8b86-2b16-4a05-ae88-5f56c6bf0b29
+[I 00:14:48.376 LabApp] Kernel shutdown: e2d56e29-187c-4f73-be92-0721d64fb4ba
+[I 09:48:08.133 LabApp] JupyterLab extension loaded from /home/gmm/conda/lib/python3.7/site-packages/jupyterlab
+[I 09:48:08.252 LabApp] JupyterLab application directory is /home/gmm/conda/share/jupyter/lab
+[I 09:48:08.258 LabApp] Serving notebooks from local directory: /home/gmm/mynotebook/hands-on-DL
+[I 09:48:08.258 LabApp] The Jupyter Notebook is running at:
+[I 09:48:08.258 LabApp] http://localhost:8888/
+[I 09:48:08.258 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 09:48:38.296 LabApp] Build is up to date
+[I 09:48:42.271 LabApp] Kernel started: 268e9850-2e66-4b0b-81fd-1baec8919ece
+-/|\-/|\-/|\-/|[I 09:48:45.371 LabApp] Adapting from protocol version 5.1 (kernel 268e9850-2e66-4b0b-81fd-1baec8919ece) to 5.3 (client).
+[I 09:48:45.387 LabApp] Adapting from protocol version 5.1 (kernel 268e9850-2e66-4b0b-81fd-1baec8919ece) to 5.3 (client).
+\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|[I 09:54:42.022 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 09:56:42.903 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 09:58:43.394 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:08:43.857 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:10:44.738 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:16:45.540 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:17:49.209 LabApp] Saving file at /lesson02_RNN_learn/LSTMcell.ipynb
+[I 10:17:55.243 LabApp] Kernel started: 60ef77ff-6431-4ee2-bfc0-28709af7a358
+[I 10:17:56.250 LabApp] Adapting from protocol version 5.1 (kernel 60ef77ff-6431-4ee2-bfc0-28709af7a358) to 5.3 (client).
+[I 10:19:54.906 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:21:55.533 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:23:31.160 LabApp] Saving file at /lesson02_RNN_learn/basicRNNcell.ipynb
+[I 10:23:39.926 LabApp] Adapting from protocol version 5.1 (kernel 268e9850-2e66-4b0b-81fd-1baec8919ece) to 5.3 (client).
+[I 10:26:35.231 LabApp] Starting buffering for 60ef77ff-6431-4ee2-bfc0-28709af7a358:085ad2e4-c5de-438e-96a6-6b45c090b2d7
+[I 10:26:35.231 LabApp] Starting buffering for 268e9850-2e66-4b0b-81fd-1baec8919ece:e69e8356-f330-4345-a084-430686e5607b
+[C 11:29:07.928 LabApp] received signal 15, stopping
+[I 11:29:07.941 LabApp] Shutting down 2 kernels
+[I 11:29:08.044 LabApp] Kernel shutdown: 268e9850-2e66-4b0b-81fd-1baec8919ece
+[I 11:29:08.044 LabApp] Kernel shutdown: 60ef77ff-6431-4ee2-bfc0-28709af7a358

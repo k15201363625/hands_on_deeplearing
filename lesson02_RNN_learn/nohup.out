@@ -1,0 +1,23 @@
+[I 22:58:44.569 LabApp] JupyterLab extension loaded from /home/gmm/conda/lib/python3.7/site-packages/jupyterlab
+[I 22:58:44.569 LabApp] JupyterLab application directory is /home/gmm/conda/share/jupyter/lab
+[I 22:58:44.574 LabApp] Serving notebooks from local directory: /home/gmm/mynotebook/hands-on-DL/lesson2_RNN_learn
+[I 22:58:44.574 LabApp] The Jupyter Notebook is running at:
+[I 22:58:44.574 LabApp] http://localhost:8888/
+[I 22:58:44.574 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 23:07:58.401 LabApp] 404 GET /api/contents/lesson2_RNN_learn/LSTMcell.ipynb?content=0&1567436878386 (127.0.0.1): No such file or directory: lesson2_RNN_learn/LSTMcell.ipynb
+[W 23:07:58.401 LabApp] No such file or directory: lesson2_RNN_learn/LSTMcell.ipynb
+[W 23:07:58.401 LabApp] 404 GET /api/contents/lesson2_RNN_learn/LSTMcell.ipynb?content=0&1567436878386 (127.0.0.1) 1.49ms referer=http://localhost:8888/lab?
+[W 23:07:58.402 LabApp] 404 GET /api/contents/lesson2_RNN_learn/basicRNNcell.ipynb?content=0&1567436878384 (127.0.0.1): No such file or directory: lesson2_RNN_learn/basicRNNcell.ipynb
+[W 23:07:58.402 LabApp] No such file or directory: lesson2_RNN_learn/basicRNNcell.ipynb
+[W 23:07:58.403 LabApp] 404 GET /api/contents/lesson2_RNN_learn/basicRNNcell.ipynb?content=0&1567436878384 (127.0.0.1) 2.36ms referer=http://localhost:8888/lab?
+[W 23:07:58.403 LabApp] 404 GET /api/contents/lesson2_RNN_learn?1567436878383 (127.0.0.1): No such file or directory: lesson2_RNN_learn
+[W 23:07:58.403 LabApp] No such file or directory: lesson2_RNN_learn
+[W 23:07:58.403 LabApp] 404 GET /api/contents/lesson2_RNN_learn?1567436878383 (127.0.0.1) 1.70ms referer=http://localhost:8888/lab?
+[I 23:07:58.654 LabApp] Build is up to date
+[I 23:08:01.664 LabApp] Creating new notebook in /
+[I 23:08:03.023 LabApp] Kernel started: ef9b8bfb-2add-408b-bbc9-7120765dc9d1
+-/|\-/|\-/|\-/|\-/|\-[I 23:08:05.255 LabApp] Adapting from protocol version 5.1 (kernel ef9b8bfb-2add-408b-bbc9-7120765dc9d1) to 5.3 (client).
+[I 23:08:05.270 LabApp] Adapting from protocol version 5.1 (kernel ef9b8bfb-2add-408b-bbc9-7120765dc9d1) to 5.3 (client).
+/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-[I 23:08:23.137 LabApp] Starting buffering for ef9b8bfb-2add-408b-bbc9-7120765dc9d1:adcbad37-5f74-4ef2-b8a2-711a9b13bb47
+[I 23:08:24.150 LabApp] Kernel shutdown: ef9b8bfb-2add-408b-bbc9-7120765dc9d1
+[W 23:08:24.165 LabApp] delete /Untitled.ipynb
